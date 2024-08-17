@@ -1,2 +1,10 @@
 /nodejs-app-starting-setup/node_modules
 .idea
+
+./node_modules
+
+node_modules/*
+
+node_modules
+
+./package-lock.json
